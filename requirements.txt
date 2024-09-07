@@ -1,0 +1,30 @@
+# pandas 
+# mlflow==2.2.2
+# notebook 
+# numpy
+# scikit-learn 
+# matplotlib
+# python-box==6.0.2
+# pyYAML
+# tqdm
+# ensure==1.0.2
+# joblib
+# types-PyYAML
+# Flask 
+# Flask-cors 
+# -e .
+pandas
+mlflow==2.2.2
+notebook
+numpy
+scikit-learn  # 'sklearn' is typically installed as 'scikit-learn'
+matplotlib
+python-box==6.0.2
+pyYAML
+tqdm
+ensure==1.0.2  # Corrected typo
+joblib
+types-PyYAML  # Corrected typo
+Flask
+Flask-cors
+-e .  # Ensure you have a setup.py or pyproject.toml for this line
